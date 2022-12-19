@@ -5,3 +5,7 @@
 ## Maintability
 
 [![Maintainability](https://api.codeclimate.com/v1/badges/feb8995804fbfc3dcae7/maintainability)](https://codeclimate.com/github/Arthur-Khaziakhmetov/php-project-45/maintainability)
+
+### Ascinema Recording
+
+[![Recording](https://asciinema.org/a/IuHZFaoTKVXLWw7oWa4STnYOS)](https://asciinema.org/a/IuHZFaoTKVXLWw7oWa4STnYOS)
